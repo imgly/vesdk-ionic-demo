@@ -1,0 +1,7 @@
+{
+  "name": "VESDKExample",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
